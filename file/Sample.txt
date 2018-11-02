@@ -1,0 +1,4 @@
+SYNC_FILE=D:/Dev/ConnectionTest/pt/Setting.xml
+BACKUPPATH=C:/StockITBackup
+THREAD_VALUE=10
+STATION_NAME=BRISBANE
