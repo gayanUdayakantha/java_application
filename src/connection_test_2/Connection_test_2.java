@@ -29,6 +29,7 @@ public class Connection_test_2 {
             MainConnection m = new MainConnection();
             m.setLocationRelativeTo(null);
             m.setVisible(true);
+            dfghjk
 
         } catch (UnsupportedLookAndFeelException ex) {
             Logger.getLogger(Connection_test_2.class.getName()).log(Level.SEVERE, null, ex);
