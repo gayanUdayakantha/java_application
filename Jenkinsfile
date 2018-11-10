@@ -8,6 +8,12 @@ pipeline{
 	
 		}
 
+		stage('Two') {
+			steps{
+				echo ' Hiiiiiiiii 2222'
+			}
+		}
+
 	}
 
 
